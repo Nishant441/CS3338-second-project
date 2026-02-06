@@ -1,0 +1,42 @@
+commit 7e5cab7ac9160603c59666b2d6974cf0c02d7950
+Merge: 75a1dc5 66dc53a
+Author: Nishant Chalaune <nishantchalaune11@gmail.com>
+Date:   Fri Feb 6 00:16:09 2026 -0800
+
+    Resolve merge conflict in index.html
+
+commit 66dc53a1b8c5974d9d927c964d5beb840bd15929
+Author: Nishant Chalaune <nishantchalaune11@gmail.com>
+Date:   Fri Feb 6 00:14:01 2026 -0800
+
+    Add name/favorite hobby to index.html
+
+commit 75a1dc5ec63892491726f1befaf971d031da5f5f
+Author: Nishant Chalaune <nishantchalaune11@gmail.com>
+Date:   Fri Feb 6 00:08:22 2026 -0800
+
+    Add favorite club to index.html
+
+commit 34be6f890c1bb3c85197b3975e5e44f75092d080
+Author: Nishant Chalaune <nishantchalaune11@gmail.com>
+Date:   Thu Feb 5 23:56:41 2026 -0800
+
+    Fill in info in index.html
+
+commit 77cd68becc8299f9c2bc5b041a4a4a7efd7a5059
+Author: Nishant Chalaune <nishantchalaune11@gmail.com>
+Date:   Thu Feb 5 23:28:53 2026 -0800
+
+    ADD README
+
+commit d45a4916ed6e12774de9ab2fa7cf1fb2ff556c84
+Author: Nishant Chalaune <nishantchalaune11@gmail.com>
+Date:   Thu Feb 5 23:16:16 2026 -0800
+
+    Fill in info in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
